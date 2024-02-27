@@ -1,0 +1,36 @@
+{
+    "users": [
+      {
+        "firstName": "Sameer",
+        "lastName": "Kale",
+        "address": "Yavatmal 445001",
+        "email": "xyz@gmail.com",
+        "phoneNumber": 12345679980,
+        "id": "1"
+      },
+      {
+        "firstName": "Sameer",
+        "lastName": "Kale",
+        "address": "Yavatmal 445001",
+        "email": "xyz@gmail.com",
+        "phoneNumber": 12345679980,
+        "id": "2"
+      },
+      {
+        "firstName": "Sameer",
+        "lastName": "Kale",
+        "address": "Yavatmal 445001",
+        "email": "xyz@gmail.com",
+        "phoneNumber": 12345679980,
+        "id": "3"
+      },
+      {
+        "firstName": "Sameer",
+        "lastName": "Kale",
+        "address": "Yavatmal 445001",
+        "email": "xyz@gmail.com",
+        "phoneNumber": 12345679980,
+        "id": "4"
+      }
+    ]
+  }
